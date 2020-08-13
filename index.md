@@ -8,15 +8,15 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: "/"
-    link_text: Home
+    link_text: Do my changes work
   - link: "#features"
     link_text: Features
   - link: "#pricing"
-    link_text: Pricing
+    link_text: BORONAVIRUS
   - link: "#team"
     link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: youtube.com
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
