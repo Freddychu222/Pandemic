@@ -1,7 +1,9 @@
 ---
 title: Team
 --- 
-<h1>Team</h1>
+## Team
+
+[Go to the homepage](/ "Back to homepage")
 
 <!-- <u1>
     {% for author in site.authors %}
