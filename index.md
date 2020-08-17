@@ -1,36 +1,43 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+date: 2020-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/hist1blogo.jpg" #replace with hist 1b logo
   navigation:
   - link: "/"
-    link_text: Do my changes work
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: BORONAVIRUS
-  - link: "#team"
+    link_text: Home
+  - link: "/Pandemic/covid.html" 
+    link_text: COVID-19
+  - link: "/Pandemic/plague.html"
+    link_text: The Black Plague
+  - link: "/Pandemic/team.html"
     link_text: Team
   cta:
-    url: youtube.com
-    button_text: Download
+    url: https://history.ucla.edu/
+    button_text: UCLA History
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: <strong>COVID-19</strong> vs <strong>The Black Plague</strong> # <br><strong>design blocks</strong>
+  content: An analysis into the similarities and<br>differences of two widespread diseases. #The tool that allows you to build beautiful sites<br>all inside Forestry's content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://github.com/Freddychu222/Pandemic
+    button_text: 'Hosted on GitHub'
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/faceplaguemask.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: detail-content
+  block: two-column-1
+  col_1: 
+    headline: Virus /ˈvīrəs/
+    content: (noun) an infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host. 
+  col_2:
+    headline: Plague /plāɡ/
+    content: (noun) a contagious bacterial disease characterized by fever and delirium, typically with the formation of buboes (bubonic plague) and sometimes infection of the lungs (pneumonic plague).
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -40,7 +47,7 @@ page_sections:
     different sections.
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    alt_text: uBuild Blocks Mock-Up  
 - template: content-feature
   block: feature-1
   media_alignment: Right
