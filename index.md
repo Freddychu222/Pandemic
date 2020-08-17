@@ -9,11 +9,11 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "/Pandemic/covid.html" 
+  - link: "/covid.html" 
     link_text: COVID-19
-  - link: "/Pandemic/plague.html"
+  - link: "/plague.html"
     link_text: The Black Plague
-  - link: "/Pandemic/team.html"
+  - link: "/team.html"
     link_text: Team
   cta:
     url: https://history.ucla.edu/
