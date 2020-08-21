@@ -2,8 +2,8 @@
 title: COVID-19
 layout: blocks
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
+- template: navigation-header #-w-button
+  block: header-1
   logo: "/uploads/hist1blogo.jpg" 
   navigation:
   - link: "/"
@@ -14,9 +14,9 @@ page_sections:
     link_text: The Black Plague
   - link: "/team.html"
     link_text: Team
-  cta:
-    url: https://history.ucla.edu/
-    button_text: UCLA History
+#   cta:
+#     url: https://history.ucla.edu/
+#     button_text: UCLA History
 - template: detail-content
   block: one-column-1
   headline: Virus /ˈvīrəs/
