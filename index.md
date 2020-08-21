@@ -34,10 +34,54 @@ page_sections:
   block: two-column-1
   col_1: 
     headline: Virus /ˈvīrəs/
-    content: (noun) an infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host. 
+    content: (noun) an infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host.
   col_2:
     headline: Plague /plāɡ/
     content: (noun) a contagious bacterial disease characterized by fever and delirium, typically with the formation of buboes (bubonic plague) and sometimes infection of the lungs (pneumonic plague).
+- template: detail-content
+  block: one-column-1
+  headline: Causes
+  content: 
+- template: detail-content
+  block: two-column-1
+  media_alignment: Left
+  col_1: 
+    content: Caused by the bacteria <strong>Yersinia pestis</strong>
+  col_2:
+    content: Caused by the virus <strong>SARS-CoV-2</strong>
+- template: detail-content
+  block: one-column-1
+  headline: Spread
+  content: 
+- template: detail-content
+  block: two-column-1
+  media_alignment: Left
+  col_1: 
+    content: Most commonly spread from contaminated/infected animals. People were bitten by infected fleas (fleas get it from infected rodents) and came into contact with contaminated animal tissue. In some cases, humans who have developed pneumonic plague can transmit the plague in an aerosol form through cough droplets, but this was much rarer
+  col_2:
+    content: Most commonly spread from person-to-person by inhalation of respiratory droplets into the lungs. Based on current transmission rates, the virus is spreading easily and sustainably between people. Estimations place its infectivity between the flu and measles. Risk of animal to human transmission is considered to be very low. 
+- template: detail-content
+  block: one-column-1
+  headline: Effect
+  content: 
+- template: detail-content
+  block: two-column-1
+  media_alignment: Left
+  col_1: 
+    content: <ul><li>Bubonic Plague - Flu-like symptoms + swollen lymph nodes (buboes) Results from being bitten by infected fleas</li><li>Septicemic Plague - Flu-like symptoms + abdominal pain + internal bleeding + tissue death. Results from untreated bubonic plague or handling infected animals</li><li>Pneumonic Plague - flu -like symptoms + severe pneumonia. Results from inhaling infected droplets from infected individuals or when untreated plague spreads to lungs. Only form of plague that can spread person-person</li></ul>
+  col_2:
+    content: <ul><li>Flu-like symptoms (Fever/Chills, Cough, Fatigue, Muscle/Body Aches, Headaches)</li><li>Sore Throat, Cough</li><li>Congestion/Runny Nose</li><li>Nausea/Vomiting</li><li>Diarrhea</li><li>Shortness of Breath/Difficulty Breathing</li><li>Loss of taste/smell</li></ul>
+- template: detail-content
+  block: one-column-1
+  headline: Protection
+  content: 
+- template: detail-content
+  block: two-column-1
+  media_alignment: Left
+  col_1: 
+    content: <ul><li>Make your home and outbuildings rodent-proof.</li><li>Wear gloves when handling potentially infected animals.</li><li>Wear insect repellent to keep rodent fleas away.</li><li>DEET + Permethrin containing products are effective repellents.</li><li>Keep fleas off your pets.</li><li>Because of lack of individuals infected with pneumonic plague, most don’t have to worry about measure to prevent  human to human transmission</li></ul>
+  col_2:
+    content: <ul><li>Maintain social distance.</li><li>Wash your hands with soap and water or with 60%+ alcohol hand sanitizer.</li><li>Clean and disinfect potentially contaminated surfaces.</li><li>Wear a mask!</li></ul>
 # - template: content-feature
 #   block: feature-1
 #   media_alignment: Left

@@ -23,6 +23,8 @@ page_sections:
   content: <p>Aaron Kuo - Head Weeb</p>
            <p>Erica Xie - Supreme Overlord</p>
            <p>Fred Chu  - Stanford Pupper</p>
+           <p>Christina - [insert title]</p>
+           <p>Sydney    - [insert title]</p>
 --- 
 ## Team
 

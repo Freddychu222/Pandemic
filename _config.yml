@@ -1,10 +1,8 @@
-title: uBuild Design Blocks
-author: Forestry.io
+title: History 1B - COVID-19 vs. The Black Plague
+author: Aaron Kuo, Erica Xie, Fred Chu
 email: support@forestry.io
 description: >-
-  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature.
-  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI
-  that will empower content editors to construct their own webpages.
+  An analysis into the similarities and differences of two widespread diseases.
 baseurl: "/Pandemic" # the subpath of your site, e.g. /blog
 url: "" # your site's origin, e.g. https://forestry.io
 
