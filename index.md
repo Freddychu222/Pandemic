@@ -44,7 +44,7 @@ page_sections:
   content: 
 - template: detail-content
   block: two-column-1
-  media_alignment: Left
+  text_alignment: Left
   col_1: 
     content: Caused by the bacteria <strong>Yersinia pestis</strong>
   col_2:
@@ -55,7 +55,7 @@ page_sections:
   content: 
 - template: detail-content
   block: two-column-1
-  media_alignment: Left
+  text_alignment: Left
   col_1: 
     content: Most commonly spread from contaminated/infected animals. People were bitten by infected fleas (fleas get it from infected rodents) and came into contact with contaminated animal tissue. In some cases, humans who have developed pneumonic plague can transmit the plague in an aerosol form through cough droplets, but this was much rarer
   col_2:
@@ -66,7 +66,7 @@ page_sections:
   content: 
 - template: detail-content
   block: two-column-1
-  media_alignment: Left
+  text_alignment: Left
   col_1: 
     content: <ul><li>Bubonic Plague - Flu-like symptoms + swollen lymph nodes (buboes) Results from being bitten by infected fleas</li><li>Septicemic Plague - Flu-like symptoms + abdominal pain + internal bleeding + tissue death. Results from untreated bubonic plague or handling infected animals</li><li>Pneumonic Plague - flu -like symptoms + severe pneumonia. Results from inhaling infected droplets from infected individuals or when untreated plague spreads to lungs. Only form of plague that can spread person-person</li></ul>
   col_2:
@@ -77,7 +77,7 @@ page_sections:
   content: 
 - template: detail-content
   block: two-column-1
-  media_alignment: Left
+  text_alignment: Left
   col_1: 
     content: <ul><li>Make your home and outbuildings rodent-proof.</li><li>Wear gloves when handling potentially infected animals.</li><li>Wear insect repellent to keep rodent fleas away.</li><li>DEET + Permethrin containing products are effective repellents.</li><li>Keep fleas off your pets.</li><li>Because of lack of individuals infected with pneumonic plague, most don’t have to worry about measure to prevent  human to human transmission</li></ul>
   col_2:
