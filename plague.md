@@ -12,6 +12,8 @@ page_sections:
     link_text: COVID-19
   - link: "/plague.html"
     link_text: The Black Plague
+  - link: "/other.html"
+    link_text: Other Media
   - link: "/team.html"
     link_text: Team
 #   cta:
