@@ -29,6 +29,10 @@ page_sections:
     image: "/uploads/faceplaguemask.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: Welcome! 
+  content: There are interesting parallels to be drawn between the current pandemic of COVID-19 and the spread of the black death. Using a side-by-side comparison, this website hopes to offer a better insight into the spread of diseases and their effects. 
 - template: detail-content
   block: two-column-1
   col_1: 
@@ -37,6 +41,14 @@ page_sections:
   col_2:
     headline: Plague /plāɡ/
     content: <p style="text-align:right;">(noun) a contagious bacterial disease characterized by fever and delirium, typically with the formation of buboes (bubonic plague) and sometimes infection of the lungs (pneumonic plague).</p>
+- template: media-content
+  block: media-2
+  image_1: 
+    image: "/uploads/covidspread.gif"
+    caption: COVID-19 Spread in the United States
+  image_2: 
+    image: "/uploads/plaguespread1.jpg"
+    caption: Black Death Spread in Europe
 - template: detail-content
   block: two-column-2
   headline: Causes
@@ -73,7 +85,7 @@ page_sections:
   col_1: 
     content: <ul style="text-align:left;"><li>Flu-like symptoms<ul><li>Fever/Chills<li>Cough<li>Fatigue<li>Muscle/Body Aches<li>Headaches</ul><li>Sore Throat, Cough<li>Congestion/Runny Nose<li>Nausea/Vomiting<li>Diarrhea<li>Shortness of Breath/Difficulty Breathing<li>Loss of taste/smell</ul>
   col_2:
-    content: <ul style="direction:rtl;text-align:right;"><li>Bubonic Plague<ul><li>Flu-like symptoms + swollen lymph nodes (buboes)<li>Results from being bitten by infected fleas</ul><li>Septicemic Plague<ul><li>Flu-like symptoms + abdominal pain + internal bleeding + tissue death.<li>Results from untreated bubonic plague or handling infected animals</ul><li>Pneumonic Plague<ul><li>Flu-like symptoms + severe pneumonia.<li>Results from inhaling infected droplets from infected individuals or when untreated plague spreads to lungs.<li>Only form of plague that can spread person-person</ul></ul>
+    content: <ul style="direction:rtl;text-align:right;"><li>Bubonic Plague<ul><li>Flu-like symptoms + swollen lymph nodes (buboes)<li>Results from being bitten by infected fleas</ul><li>Septicemic Plague<ul><li>Flu-like symptoms + abdominal pain + internal bleeding + tissue death<li>Results from untreated bubonic plague or handling infected animals</ul><li>Pneumonic Plague<ul><li>Flu-like symptoms + severe pneumonia<li>Results from inhaling infected droplets from infected individuals or when untreated plague spreads to lungs<li>Only form of plague that can spread person-person</ul></ul>
 - template: media-content
   block: media-2
   image_1: 
@@ -88,7 +100,7 @@ page_sections:
   col_1: 
     content: <ul style="text-align:left;"><li>Maintain social distance (at least 6ft)<li>Wash your hands with soap and water or with 60%+ alcohol hand sanitizer<li>Clean and disinfect potentially contaminated surfaces<li>Wear a mask</ul>
   col_2:
-    content: <ul style="direction:rtl;text-align:right;"><li>Make your home and outbuildings rodent-proof<li>Wear gloves when handling potentially infected animals<li>Wear insect repellent to keep rodent fleas away, DEET + Permethrin containing products are effective repellents.<li>Keep fleas off your pets<li>Because of lack of individuals infected with pneumonic plague, most don’t have to worry about measure to prevent  human to human transmission</ul>
+    content: <ul style="direction:rtl;text-align:right;"><li>Make your home and outbuildings rodent-proof<li>Wear gloves when handling potentially infected animals<li>Wear insect repellent to keep rodent fleas away, DEET + Permethrin containing products are effective repellents<li>Keep fleas off your pets<li>Because of lack of individuals infected with pneumonic plague, most don’t have to worry about measure to prevent  human to human transmission</ul>
 - template: full-width-media-element
   block: media-1
   image: "/uploads/winewindow.jpg"
