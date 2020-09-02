@@ -13,8 +13,8 @@ page_sections:
     link_text: COVID-19
   - link: "/plague.html"
     link_text: The Black Plague
-  - link: "/other.html"
-    link_text: Other Media
+  - link: "/podcast.html"
+    link_text: Podcast
   - link: "/team.html"
     link_text: Team
 - template: hero-banner-w-image
@@ -109,9 +109,7 @@ page_sections:
 #   block: media-1
 #   image: "/uploads/2018/06/21/theme.png"
 #   caption: All Available Blocks
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
+
 
 ---
 foo bar
