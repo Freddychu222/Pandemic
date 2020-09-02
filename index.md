@@ -47,7 +47,7 @@ page_sections:
     image: "/uploads/covidspread.gif"
     caption: COVID-19 Spread in the United States
   image_2: 
-    image: "/uploads/plaguespread1.jpg"
+    image: "/uploads/plaguespread.png"
     caption: Black Death Spread in Europe
 - template: detail-content
   block: two-column-2
@@ -77,7 +77,7 @@ page_sections:
     image: "/uploads/covidmortality.jpg"
     caption: COVID-19 Hazard by Age
   image_2: 
-    image: "/uploads/plaguemortality.jpg"
+    image: "/uploads/plaguemortality1.jpg"
     caption: Black Death Mortality by Age 
 - template: detail-content
   block: two-column-2
