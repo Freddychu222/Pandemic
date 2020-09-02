@@ -16,28 +16,14 @@ page_sections:
     link_text: Other Media
   - link: "/team.html"
     link_text: Team
-#   cta:
-#     url: https://history.ucla.edu/
-#     button_text: UCLA History
 - template: detail-content
   block: text-1
   headline: Say hello to our team members! 
-  content: <p>Aaron Kuo - Head Weeb</p>
-           <p>Erica Xie - Supreme Overlord</p>
-           <p>Fred Chu  - Stanford Pupper</p>
-           <p>Christina - [insert title]</p>
-           <p>Sydney    - [insert title]</p>
+  content: <p><strong>Aaron Kuo</strong> - Principal Investigator</p>
+           <p><strong>Erica Xie</strong> - Code Monkey 1</p>
+           <p><strong>Fred Chu</strong> - Code Monkey 2</p>
+           <p><strong>Sydney Collyns</strong> - Podcast Creator</p>
 --- 
 ## Team
 
 [Go to the homepage](/ "Back to homepage")
-
-<!-- <u1>
-    {% for author in site.authors %}
-        <li>
-            <h2><a href="{{ author.url }}">{{ author.name }}</a></h2>
-            <h3>{{ author.position }}</h3>
-            <p>{{ author.content | markdownify }}</p>
-        </li>
-    {% endfor %}
-</u1> -->

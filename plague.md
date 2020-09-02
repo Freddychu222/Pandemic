@@ -16,9 +16,6 @@ page_sections:
     link_text: Other Media
   - link: "/team.html"
     link_text: Team
-#   cta:
-#     url: https://history.ucla.edu/
-#     button_text: UCLA History
 - template: detail-content
   block: one-column-1
   headline: Plague /plāɡ/
