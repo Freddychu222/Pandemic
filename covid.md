@@ -23,6 +23,7 @@ page_sections:
   block: one-column-1
   headline: Virus /ˈvīrəs/
   content: (noun) an infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host.
+
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -31,6 +32,33 @@ page_sections:
   media:
     image: "/uploads/covid_img.jpg"
     alt_text: Coronavirus image  
+
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/us_new_cases.jpg"
+  caption: <strong>New Cases of Covid-19 in the United States as of September 1st 2020 (sourced from CDC)<span class="light">&nbsp;</span></strong>
+
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/totalcases.jpg"
+  caption: <strong>Total Cases in the United States as of September 1st 2020 (sourced from CDC)<span class="light">&nbsp;</span></strong>
+
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: <strong>Age Group vs. Pecentage of Cases<span class="light">&nbsp;</span></strong><span class="light"> The 18-29 and 50-64 age groups are the most infected, each taking up over 20% of the total infected population. </span>
+  media:
+    image: "/uploads/casebyage.jpg"
+    alt_text: Age VS Covid cases 
+
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: <strong>Age Group vs. Death Rate<span class="light">&nbsp;</span></strong><span class="light"> The evidence shows that those 65+ are the most at risk, with almost 80% of all Covid deaths coming form the upper age groups </span>
+  media:
+    image: "/uploads/deathbyage.jpg"
+    alt_text: age vs death percentages
+
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -39,6 +67,19 @@ page_sections:
   media:
     image: "/uploads/testing.jpg"
     alt_text: Coronavirus testing (sourced form the Verge)
+  
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/testrate.jpg"
+  caption: <strong>Testing rate of Covid-19 in the US by State (sourced from CDC)<span class="light">&nbsp;</span></strong>
+
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: <strong>Percent Postive:<span class="light">&nbsp;</span></strong><span class="light">Mainly the Sourthern states have the largest percentage of their population test positive for Covid.  </span>
+  media:
+    image: "/uploads/positivepercent.jpg"
+    alt_text: posititive percentage tested
 ---
 ## COVID-19
 
