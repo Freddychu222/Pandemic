@@ -34,7 +34,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/intro.png"
-  caption: <strong>Covid-19 Mural by Will Phillips (left), Triumph of Death by Pieter Bruegel(right)</strong>
+  caption: <strong>COVID-19 Mural by Will Phillips (left), Triumph of Death by Pieter Bruegel (right)</strong>
 
 - template: 1-column-text
   block: one-column-1
@@ -63,18 +63,18 @@ page_sections:
   block: media-2
   image_1: 
     image: "/uploads/la_death.png"
-    caption: Cumulative deaths in the county of Los Angeles since the start of Covid
+    caption: Cumulative deaths in the county of Los Angeles since the start of COVID-19
   image_2: 
-    image: "/uploads/london_death.png"
+    image: "/uploads/london_death.jpg"
     caption: Cumulative deaths in the city of London on 4 separate epidemics of the Black Plague
 
 - template: media-content
   block: media-2
   image_1: 
-    image: "/uploads/cov_img.png"
+    image: "/uploads/cov_img.jpg"
     caption: Caused by the virus <strong>SARS-CoV-2</strong></p>
   image_2: 
-    image: "/uploads/plague_bac.png"
+    image: "/uploads/plague_img.jpg"
     caption: Caused by the bacteria <strong>Yersinia pestis</strong></p>
 
 - template: media-content
@@ -134,7 +134,7 @@ page_sections:
     image: "/uploads/prev_rona.png"
     caption: COVID-19 Protective Gear
   image_2: 
-    image: "/uploads/prev_plague.png"
+    image: "/uploads/prev_plague.jpg"
     caption: Black Death Protective Gear
 
 - template: full-width-media-element
@@ -149,12 +149,12 @@ page_sections:
 
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/final_compare.png"
+  image: "/uploads/final_compare.jpg"
   caption: <strong>More on plagues throughout history!</strong>
 
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
+# - template: full-width-media-element
+#   block: media-1
+#   image: "/uploads/2018/06/21/theme.png"
+#   caption: All Available Blocks
 ---
 foo bar
