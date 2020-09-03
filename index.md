@@ -105,10 +105,10 @@ page_sections:
   block: media-1
   image: "/uploads/winewindow.jpg"
   caption: Medieval ‘wine windows’ are reopening, reviving Italian plague tradition.
-# - template: full-width-media-element
-#   block: media-1
-#   image: "/uploads/2018/06/21/theme.png"
-#   caption: All Available Blocks
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/06/21/theme.png"
+  caption: All Available Blocks
 
 
 ---

@@ -1,11 +1,10 @@
 ---
+title: Podcast
 layout: blocks
-title: Homepage
-date: 2020-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header #-w-button
   block: header-1
-  logo: "/uploads/hist1blogo.jpg" #replace with hist 1b logo
+  logo: "/uploads/hist1blogo.jpg" 
   navigation:
   - link: "/"
     link_text: Home
@@ -17,11 +16,10 @@ page_sections:
     link_text: Podcast
   - link: "/team.html"
     link_text: Team
-
-- template: simple-footer
-  block: footer-1
-  content: Summer 2020 History 1B
-  
+- template: 1-column-text
+  block: one-column-1
+  headline: Summer 2020 History 1B 
+  content: <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/886532677&color=%23946864&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size:10px; color:#cccccc; line-break:anywhere; word-break:normal; overflow:hidden;white-space:nowrap; text-overflow:ellipsis; font-family:Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight:100;"><a href="https://soundcloud.com/user-949680884" title="Freddychu" target="_blank" style="color:#cccccc; text-decoration:none;">Freddychu</a> · <a href="https://soundcloud.com/user-949680884/covid-19-and-the-black-death-podcast" title="Covid-19 and the Black Death Podcast" target="_blank" style="color:#cccccc; text-decoration:none;">Covid-19 and the Black Death Podcast</a></div>
 - template: detail-content
   block: one-column-1
   headline: Covid-19 and the Black Death by Sydney Collyns
