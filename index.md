@@ -20,7 +20,7 @@ page_sections:
 
 - template: hero-banner-w-image
   block: hero-2
-  headline: <strong>COVID-19</strong> vs <strong>The Black Death</strong> 
+  headline: <a href="/Pandemic/covid.html"><strong>COVID-19</strong></a> vs <a href="/Pandemic/plague.html"><strong>The Black Death</strong></a>
   content: An analysis into the similarities and<br>differences of two widespread diseases. 
   cta:
     enabled: true
