@@ -17,6 +17,7 @@ page_sections:
     link_text: Podcast
   - link: "/team.html"
     link_text: Team
+
 - template: hero-banner-w-image
   block: hero-2
   headline: <strong>COVID-19</strong> vs <strong>The Black Plague</strong> 
@@ -29,10 +30,17 @@ page_sections:
     image: "/uploads/faceplaguemask.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/intro.png"
+  caption: <strong>Covid-19 Mural by Will Phillips (left), Triumph of Death by Pieter Bruegel(right)</strong>
+
 - template: 1-column-text
   block: one-column-1
   headline: Welcome! 
   content: There are interesting parallels to be drawn between the current pandemic of COVID-19 and the spread of the black death. Using a side-by-side comparison, this website hopes to offer a better insight into the spread of diseases and their effects. 
+
 - template: detail-content
   block: two-column-1
   col_1: 
@@ -41,6 +49,7 @@ page_sections:
   col_2:
     headline: Plague /plāɡ/
     content: <p style="text-align:right;">(noun) a contagious bacterial disease characterized by fever and delirium, typically with the formation of buboes (bubonic plague) and sometimes infection of the lungs (pneumonic plague).</p>
+
 - template: media-content
   block: media-2
   image_1: 
@@ -49,13 +58,25 @@ page_sections:
   image_2: 
     image: "/uploads/plaguespread.png"
     caption: Black Death Spread in Europe
-- template: detail-content
-  block: two-column-2
-  headline: Causes
-  col_1: 
-    content: <p style="text-align:left;">Caused by the virus <strong>SARS-CoV-2</strong></p>
-  col_2:
-    content: <p style="text-align:right;">Caused by the bacteria <strong>Yersinia pestis</strong></p>
+
+- template: media-content
+  block: media-2
+  image_1: 
+    image: "/uploads/la_death.png"
+    caption: Cumulative deaths in the county of Los Angeles since the start of Covid
+  image_2: 
+    image: "/uploads/london_death.png"
+    caption: Cumulative deaths in the city of London on 4 separate epidemics of the Black Plague
+
+- template: media-content
+  block: media-2
+  image_1: 
+    image: "/uploads/cov_img.png"
+    caption: Caused by the virus <strong>SARS-CoV-2</strong></p>
+  image_2: 
+    image: "/uploads/plague_bac.png"
+    caption: Caused by the bacteria <strong>Yersinia pestis</strong></p>
+
 - template: media-content
   block: media-2
   image_1: 
@@ -64,6 +85,7 @@ page_sections:
   image_2: 
     image: "/uploads/plaguespread.jpg"
     caption: Black Death Spread by Population
+
 - template: detail-content
   block: two-column-2
   headline: Spread
@@ -71,6 +93,7 @@ page_sections:
     content: <p style="text-align:left;">Most commonly spread from person-to-person by inhalation of respiratory droplets into the lungs. Based on current transmission rates, the virus is spreading easily and sustainably between people. Estimations place its infectivity between the flu and measles. Risk of animal to human transmission is considered to be very low.</p>
   col_2:
     content: <p style="text-align:right;">Most commonly spread from contaminated/infected animals. People were bitten by infected fleas (fleas get it from infected rodents) and came into contact with contaminated animal tissue. In some cases, humans who have developed pneumonic plague can transmit the plague in an aerosol form through cough droplets, but this was much rarer.</p>
+
 - template: media-content
   block: media-2
   image_1: 
@@ -79,6 +102,7 @@ page_sections:
   image_2: 
     image: "/uploads/plaguemortality1.jpg"
     caption: Black Death Mortality by Age 
+
 - template: detail-content
   block: two-column-2
   headline: Effect
@@ -86,6 +110,7 @@ page_sections:
     content: <ul style="text-align:left;"><li>Flu-like symptoms<ul><li>Fever/Chills<li>Cough<li>Fatigue<li>Muscle/Body Aches<li>Headaches</ul><li>Sore Throat, Cough<li>Congestion/Runny Nose<li>Nausea/Vomiting<li>Diarrhea<li>Shortness of Breath/Difficulty Breathing<li>Loss of taste/smell</ul>
   col_2:
     content: <ul style="direction:rtl;text-align:right;"><li>Bubonic Plague<ul><li>Flu-like symptoms + swollen lymph nodes (buboes)<li>Results from being bitten by infected fleas</ul><li>Septicemic Plague<ul><li>Flu-like symptoms + abdominal pain + internal bleeding + tissue death<li>Results from untreated bubonic plague or handling infected animals</ul><li>Pneumonic Plague<ul><li>Flu-like symptoms + severe pneumonia<li>Results from inhaling infected droplets from infected individuals or when untreated plague spreads to lungs<li>Only form of plague that can spread person-person</ul></ul>
+
 - template: media-content
   block: media-2
   image_1: 
@@ -94,6 +119,7 @@ page_sections:
   image_2: 
     image: "/uploads/plagueprotection.jpg"
     caption: Black Death Protective Gear
+
 - template: detail-content
   block: two-column-2
   headline: Protection
@@ -101,15 +127,34 @@ page_sections:
     content: <ul style="text-align:left;"><li>Maintain social distance (at least 6ft)<li>Wash your hands with soap and water or with 60%+ alcohol hand sanitizer<li>Clean and disinfect potentially contaminated surfaces<li>Wear a mask</ul>
   col_2:
     content: <ul style="direction:rtl;text-align:right;"><li>Make your home and outbuildings rodent-proof<li>Wear gloves when handling potentially infected animals<li>Wear insect repellent to keep rodent fleas away, DEET + Permethrin containing products are effective repellents<li>Keep fleas off your pets<li>Because of lack of individuals infected with pneumonic plague, most don’t have to worry about measure to prevent  human to human transmission</ul>
+
+- template: media-content
+  block: media-2
+  image_1: 
+    image: "/uploads/prev_rona.png"
+    caption: COVID-19 Protective Gear
+  image_2: 
+    image: "/uploads/prev_plague.png"
+    caption: Black Death Protective Gear
+
 - template: full-width-media-element
   block: media-1
   image: "/uploads/winewindow.jpg"
   caption: Medieval ‘wine windows’ are reopening, reviving Italian plague tradition.
+
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/other_plague.png"
+  caption: Covid Mortality Rate vs Past Epidemics. 
+
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/final_compare.png"
+  caption: <strong>More on plagues throughout history!</strong>
+
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
-
-
 ---
 foo bar
