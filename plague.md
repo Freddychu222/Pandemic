@@ -1,5 +1,5 @@
 ---
-title: The Black Plague
+title: The Black Death
 layout: blocks
 page_sections:
 - template: navigation-header #-w-button
@@ -11,7 +11,7 @@ page_sections:
   - link: "/covid.html" 
     link_text: COVID-19
   - link: "/plague.html"
-    link_text: The Black Plague
+    link_text: The Black Death
   - link: "/podcast.html"
     link_text: Podcast
   - link: "/team.html"
@@ -55,6 +55,6 @@ page_sections:
 
 # - Some solutions were used that were bloodletting 
 ---
-## The Black Plague
+## The Black Death
 
 [Go to the homepage](/ "Back to homepage")

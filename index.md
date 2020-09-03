@@ -12,7 +12,7 @@ page_sections:
   - link: "/covid.html" 
     link_text: COVID-19
   - link: "/plague.html"
-    link_text: The Black Plague
+    link_text: The Black Death
   - link: "/podcast.html"
     link_text: Podcast
   - link: "/team.html"
@@ -20,7 +20,7 @@ page_sections:
 
 - template: hero-banner-w-image
   block: hero-2
-  headline: <strong>COVID-19</strong> vs <strong>The Black Plague</strong> 
+  headline: <strong>COVID-19</strong> vs <strong>The Black Death</strong> 
   content: An analysis into the similarities and<br>differences of two widespread diseases. 
   cta:
     enabled: true
@@ -39,7 +39,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Welcome! 
-  content: There are interesting parallels to be drawn between the current pandemic of COVID-19 and the spread of the black death. Using a side-by-side comparison, this website hopes to offer a better insight into the spread of diseases and their effects. 
+  content: There are interesting parallels to be drawn between the current pandemic of COVID-19 and the spread of the Black Death. Using a side-by-side comparison, this website hopes to offer a better insight into the spread of diseases and their effects. 
 
 - template: detail-content
   block: two-column-1
@@ -66,7 +66,7 @@ page_sections:
     caption: Cumulative deaths in the county of Los Angeles since the start of COVID-19
   image_2: 
     image: "/uploads/london_death.jpg"
-    caption: Cumulative deaths in the city of London on 4 separate epidemics of the Black Plague
+    caption: Cumulative deaths in the city of London on 4 separate epidemics of the Black Death
 
 - template: media-content
   block: media-2

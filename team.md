@@ -11,7 +11,7 @@ page_sections:
   - link: "/covid.html" 
     link_text: COVID-19
   - link: "/plague.html"
-    link_text: The Black Plague
+    link_text: The Black Death
   - link: "/podcast.html"
     link_text: Podcast
   - link: "/team.html"
