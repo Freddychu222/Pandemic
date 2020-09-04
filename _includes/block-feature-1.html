@@ -1,5 +1,8 @@
 {% if section.media_alignment and section.media_alignment == "Left" %}
 {% include block-feature-2.html %}
+{% endif %}
+{% if section.media_alignment and section.media_alignment == "Team" %}
+{% include block-feature-3.html %}
 {% else %}
 <section class="block block-feature-1">
   <div class="container">

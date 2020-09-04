@@ -31,15 +31,15 @@ page_sections:
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 
+- template: 1-column-text
+  block: one-column-1
+  headline: Welcome! 
+  content: There are interesting parallels to be drawn between the current pandemic of COVID-19 and the spread of the Black Death. Using a side-by-side comparison, this website hopes to offer a better insight into the spread of diseases and their effects.
+
 - template: full-width-media-element
   block: media-1
   image: "/uploads/intro.png"
   caption: <strong>COVID-19 Mural by Will Phillips (left), Triumph of Death by Pieter Bruegel (right)</strong>
-
-- template: 1-column-text
-  block: one-column-1
-  headline: Welcome! 
-  content: There are interesting parallels to be drawn between the current pandemic of COVID-19 and the spread of the Black Death. Using a side-by-side comparison, this website hopes to offer a better insight into the spread of diseases and their effects. 
 
 - template: detail-content
   block: two-column-1
