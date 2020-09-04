@@ -1,0 +1,96 @@
+---
+label: content-feature-team
+hide_body: false
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: feature-3
+- type: textarea
+  name: headline
+  label: Headline
+  config:
+    wysiwyg: true
+    schema:
+      format: html
+- type: select
+  name: media_alignment
+  config:
+    source:
+      type: simple
+    options:
+    - Left
+    - Right
+    - Team
+  label: Media Alignment
+  default: Team
+- type: textarea
+  name: content_1
+  label: First Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html
+- type: field_group
+  name: media_1
+  label: First Featured Media
+  fields:
+  - type: file
+    name: image
+    label: Image
+  - type: text
+    name: alt_text
+    label: Alt text
+- type: textarea
+  name: content_2
+  label: Second Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html
+- type: field_group
+  name: media_2
+  label: Second Featured Media
+  fields:
+  - type: file
+    name: image
+    label: Image
+  - type: text
+    name: alt_text
+    label: Alt text
+- type: textarea
+  name: content_3
+  label: Third Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html
+- type: field_group
+  name: media_3
+  label: Third Featured Media
+  fields:
+  - type: file
+    name: image
+    label: Image
+  - type: text
+    name: alt_text
+    label: Alt text
+- type: textarea
+  name: content_4
+  label: Fourth Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html
+- type: field_group
+  name: media_4
+  label: Fourth Featured Media
+  fields:
+  - type: file
+    name: image
+    label: Image
+  - type: text
+    name: alt_text
+    label: Alt text
+

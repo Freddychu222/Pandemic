@@ -1,0 +1,38 @@
+<section id="features" class="block block-feature-3">
+    <div class="container">
+        <h2><span class="light">{{ section.headline }}</span></h2>
+        <br>
+      <div class="columns">
+        <div class="column media">
+            <img width="200" height="200" src="{{ section.media_1.image | relative_url }}" alt="{{ section.media_1.alt_text }}">
+        </div>
+        <div class="column text" style="text-align:right;vertical-align:center;">
+            <p>{{ section.content_1 }}</p>
+        </div>  
+      </div>
+      <div class="columns">
+        <div class="column media">
+            <img width="200" height="200" src="{{ section.media_2.image | relative_url }}" alt="{{ section.media_2.alt_text }}">
+        </div>
+        <div class="column text" style="text-align:right;vertical-align:center;">
+            <p>{{ section.content_2 }}</p>
+        </div>  
+      </div>
+      <div class="columns">
+        <div class="column media">
+            <img width="200" height="200" src="{{ section.media_3.image | relative_url }}" alt="{{ section.media_3.alt_text }}">
+        </div>
+        <div class="column text" style="text-align:right;vertical-align:center;">
+            <p>{{ section.content_3 }}</p>
+        </div>  
+      </div>
+      <div class="columns">
+        <div class="column media">
+            <img width="200" height="200" src="{{ section.media_4.image | relative_url }}" alt="{{ section.media_4.alt_text }}">
+        </div>
+        <div class="column text" style="text-align:right;vertical-align:center;">
+            <p>{{ section.content_4 }}</p>
+        </div>  
+      </div>
+    </div>
+  </section>
