@@ -66,7 +66,7 @@ page_sections:
     caption: COVID-19 Spread in the United States
   image_2: 
     image: "/uploads/plaguespread.png"
-    caption: Black Death Spread in Europe
+    caption: Black Death Spread in Europe (by Flappiefh on Ancient.eu)
 
 - template: detail-content
   block: two-column-2
@@ -80,37 +80,38 @@ page_sections:
   block: media-2
   image_1: 
     image: "/uploads/covidspread.jpg"
-    caption: COVID-19 Spread by WHO region 
+    caption: <Strong>COVID-19 Spread by WHO region:</Strong> The above plot illustrates the reported infected individuals by each region of the world. The intermittent spikes are attributable to decreased testing on weekends. Currently, it seems as if the disease has passed its peak on a global scale, as evidenced by the gradual decrease in new cases for each region. 
+
   image_2: 
     image: "/uploads/plaguespread.jpg"
-    caption: Black Death Spread by Population
+    caption: <Strong>Black Death Spread by Population:</Strong> This is an estimation of the number of individuals infected with the Bubonic Plague in England by year. Although data was reported less frequently compared to the new cases plot for COVID-19, the infection curve follows a similar trend; an initial exponential increase to the peak followed by gradual decrease. (graph from S. Broadberry, B. Campbell, and B. van Leeuwen 2010, English Medieval)
 
 - template: media-content
   block: media-2
   image_1: 
     image: "/uploads/la_death.png"
-    caption: Cumulative deaths in the county of Los Angeles since the start of COVID-19
+    caption: The above shows the cumulative deaths incurred by COVID-19 in Los Angeles since the first death. The plot shows a very linear trend; since April 2020, the total number of deaths has increased at a mostly linear rate through late-August. (From LA County Department of Public Health)
   image_2: 
     image: "/uploads/london_death.jpg"
-    caption: Cumulative deaths in the city of London on 4 separate epidemics of the Black Death
+    caption: This plot displays the cumulative deaths in the city of London on 4 separate epidemics of the Black Death. Although deaths only rose around 50% per week, epidemics lasted 6 months. As a result, each of the four largest plague outbreaks killed about one fifth of Londoners. 
 
 - template: media-content
   block: media-2
   image_1: 
     image: "/uploads/covidmortality.jpg"
-    caption: COVID-19 Hazard by Age
+    caption: <Strong>COVID-19 Hazard by Age:</Strong> This plot displays the risk (in percent) of developing serious symptoms from COVID-19  for different age groups. The mortality rate of COVID-19 increases as the infected individual’s age increases. This supports the CDC’s warning that the risk of severe illness increases with age. (from Williamson et. al., Nature, 7/8)
   image_2: 
     image: "/uploads/plaguemortality1.jpg"
-    caption: Black Death Mortality by Age 
-
+    caption: <Strong>Black Death Mortality by Age:</Strong> This plot shows age distribution of the dead in England around the time of the Black Death. It can be seen that normal mortality rates report that over 25% of deaths are above the age of 70 whereas during the Black Death, the average age-at-death shifts to around 20-years-old. (DeWitte et al., 2017)
+ 
 - template: media-content
   block: media-2
   image_1: 
     image: "/uploads/econ.png"
-    caption: <Strong>Consensus Forecasts of Global GDP(%)- </Strong>Covid-19 has caused the larget global recession in modern history since the Great Depression, as shown by the red dip in the graph above. Economic activity in advanced economies are projected to shrink up tp 7% as well by the end of the year. 
+    caption: <Strong>Consensus Forecasts of Global GDP(%):</Strong> Covid-19 has caused the larget global recession in modern history since the Great Depression, as shown by the red dip in the graph above. Economic activity in advanced economies are projected to shrink up tp 7% as well by the end of the year. 
   image_2: 
     image: "/uploads/death.png"
-    caption: <Strong>England's Economic Impact and Population During the Plague- </Strong>As indicated in the graph, In the mid 15th Century, England's Population dipped to below 50% of what it was in 1270 (in red), and the GDP went down with it (in black). It's interesting to note that so many people died that it actually inflated their per capita GDP (in green). 
+    caption: <Strong>England's Economic Impact and Population During the Plague:</Strong> As indicated in the graph, In the mid 15th Century, England's Population dipped to below 50% of what it was in 1270 (in red), and the GDP went down with it (in black). It's interesting to note that so many people died that it actually inflated their per capita GDP (in green). 
 
 - template: detail-content
   block: two-column-2
@@ -133,7 +134,7 @@ page_sections:
   block: two-column-2
   headline: Protection
   col_1: 
-    content: <ul style="text-align:left;"><li>Maintain social distance (at least 6ft)<li>Wash your hands with soap and water or with 60%+ alcohol hand sanitizer<li>Clean and disinfect potentially contaminated surfaces<li>Wear a mask</ul>
+    content: <ul style="text-align:left;"><li>Try to quarantine indoors, if going out is neccessary, maintain social distance (at least 6ft)<li>Wash your hands with soap and water or with 60%+ alcohol hand sanitizer<li>Clean and disinfect potentially contaminated surfaces<li>Wear a mask when going out<li>Avoid touching your face- nose, eyes, mouth </ul>
   col_2:
     content: <ul style="direction:rtl;text-align:right;"><li>Make your home and outbuildings rodent-proof<li>Wear gloves when handling potentially infected animals<li>Wear insect repellent to keep rodent fleas away, DEET + Permethrin containing products are effective repellents<li>Keep fleas off your pets<li>Because of lack of individuals infected with pneumonic plague, most don’t have to worry about measure to prevent  human to human transmission</ul>
 
@@ -141,10 +142,10 @@ page_sections:
   block: media-2
   image_1: 
     image: "/uploads/prev_rona.png"
-    caption: COVID-19 Protective Gear
+    caption: COVID-19 Protection Flyer
   image_2: 
     image: "/uploads/prev_plague.jpg"
-    caption: Black Death Protective Gear
+    caption: Black Death Warning Flyer
 
 - template: full-width-media-element
   block: media-1
@@ -154,7 +155,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/other_plague.png"
-  caption: Covid Mortality Rate vs Past Epidemics. 
+  caption: Covid Mortality Rate vs Past Epidemics. (from Goldstein and Lee, 2020)
 
 - template: full-width-media-element
   block: media-1
