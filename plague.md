@@ -40,6 +40,7 @@ page_sections:
   block: media-1
   image: "/uploads/plagueeffect2.jpg"
   caption: Though the cause is unclear, many sought to explain the plague with different methods. Some blamed the conjunction of the planets, while many religious response explained the plague as the wrath of God. Eventually, many started to accuse Muslims, Jews, and lepers for this misfortune. 
+    
 - template: full-width-media-element
   block: media-1
   image: "/uploads/giovanni.jpg"
