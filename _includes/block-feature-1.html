@@ -1,6 +1,6 @@
 {% if section.media_alignment and section.media_alignment == "Left" %}
 {% include block-feature-2.html %}
-{% endif %}
+{% else %}
 {% if section.media_alignment and section.media_alignment == "Team" %}
 {% include block-feature-3.html %}
 {% else %}
@@ -17,4 +17,5 @@
     </div>      
   </div>
 </section>
+{% endif %}
 {% endif %}
