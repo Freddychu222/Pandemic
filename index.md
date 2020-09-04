@@ -93,7 +93,7 @@ page_sections:
     caption: The above shows the cumulative deaths incurred by COVID-19 in Los Angeles since the first death. The plot shows a very linear trend; since April 2020, the total number of deaths has increased at a mostly linear rate through late-August. (From LA County Department of Public Health)
   image_2: 
     image: "/uploads/london_death.jpg"
-    caption: This plot displays the cumulative deaths in the city of London on 4 separate epidemics of the Black Death. Although deaths only rose around 50% per week, epidemics lasted 6 months. As a result, each of the four largest plague outbreaks killed about one fifth of Londoners. 
+    caption: This plot displays the cumulative deaths in the city of London on 4 separate epidemics of the bubonic plague (separate from the Black Death). Although deaths only rose around 50% per week, epidemics lasted 6 months. As a result, each of the four largest plague outbreaks killed about one fifth of Londoners. 
 
 - template: media-content
   block: media-2
