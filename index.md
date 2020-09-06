@@ -90,10 +90,10 @@ page_sections:
   block: media-2
   image_1: 
     image: "/uploads/la_death.png"
-    caption: The above shows the cumulative deaths incurred by COVID-19 in Los Angeles since the first death. The plot shows a very linear trend; since April 2020, the total number of deaths has increased at a mostly linear rate through late-August. (From LA County Department of Public Health)
+    caption: <strong>Cumulative COVID-19 Deaths in Los Angeles:</strong> The above shows the cumulative deaths incurred by COVID-19 in Los Angeles since the first death. The plot shows a very linear trend; since April 2020, the total number of deaths has increased at a mostly linear rate through late-August. (From LA County Department of Public Health)
   image_2: 
     image: "/uploads/london_death.jpg"
-    caption: This plot displays the cumulative deaths in the city of London on 4 separate epidemics of the bubonic plague (separate from the Black Death). Although deaths only rose around 50% per week, epidemics lasted 6 months. As a result, each of the four largest plague outbreaks killed about one fifth of Londoners. 
+    caption: <strong>Cumulative Bubonic Plague Deaths in London:</strong> This plot displays the cumulative deaths in the city of London on 4 separate epidemics of the bubonic plague (separate from the Black Death). Although deaths only rose around 50% per week, epidemics lasted 6 months. As a result, each of the four largest plague outbreaks killed about one fifth of Londoners. 
 
 - template: media-content
   block: media-2
@@ -103,7 +103,12 @@ page_sections:
   image_2: 
     image: "/uploads/plaguemortality1.jpg"
     caption: <Strong>Black Death Mortality by Age:</Strong> This plot shows age distribution of the dead in England around the time of the Black Death. It can be seen that normal mortality rates report that over 25% of deaths are above the age of 70 whereas during the Black Death, the average age-at-death shifts to around 20-years-old. (DeWitte et al., 2017)
- 
+
+- template: detail-content
+  block: one-column-1
+  headline: Spread vs. Mortality Comparison Analysis
+  content: With regards to the transmission of COVID-19 and the plague, several comparisons can be made between the two. In the modern age, disease spreads much differently than centuries ago; the development of air travel and ease of land travel has increased the ability for a contagious disease to spread rapidly. This is evidenced by the sporadic spread of cases across the United States in the figure <strong>COVID-19 Spread in the United States</strong>. Additionally, high population density in urban areas such as New York City and Los Angeles contribute to a greater rate of infections within populations. However, advances in modern medicine and hygiene hinders the spread since, comparatively, people wash their hands and wear masks at a much greater rate than in the 14th to 16th centuries. Meanwhile, as can be seen in the <strong>Black Death Spread in Europe</strong> figure, the bubonic plague spread through Europe along major trade routes and dispersed from major trading cities. Because the plague is transmitted by fleas that have bitten infected rodents, the low level of hygiene at the time was responsible for carrying infected rodents along trade routes.<br><br>Relating to the quantitative data surrounding the spread of both diseases, the graphs for cumulative infections and deaths follow somewhat similar trends. As shown in the <strong>Cumulative Bubonic Plague Deaths in London</strong> graph, the total deaths for all of the outbreaks of the plague followed a logarithmic curve where once the outbreak was controlled, the number of deaths tapered off. A comparable trend can be seen in the plot <strong>Black Death Spread by Population</strong>, although the trend is less pronounced due to the decreased data resolution. Similarly, the spread of COVID-19 also behaves logarithmically despite the use of masks and social distancing to contain the disease. As seen in the <strong>COVID-19 Spread by WHO Region</strong>, the number of new daily cases increases linearly until a peak and slowly decreases. If one were to plot this information in a cumulative manner where the graph shows the total number of reported cases, the graph would be logarithmic. This is because as the number of new daily cases increases, the cumulative plot would become steeper, and as the number of new daily cases slowly decreases, the cumulative plot would slowly begin to taper off. One feature of the WHO plot that is noteworthy is its ‘double spike’. The quarantine employed by state governments appeared to be showing success around April 1st when the number of new daily cases began to decrease. However, the reopening of several states’ economies around June caused a second wave of the disease to spread, as shown by the second surge of new daily cases. Comparatively, the plot of <strong>Cumulative COVID-19 Deaths in Los Angeles</strong> suggests that the total number of deaths increases in a linear fashion. Such behavior is attributable to modern medicine because drugs and intravenous treatments for diseases greatly increase the survivability of an infection such as COVID-19. This is a stark contrast to the treatments available at the time of the plague outbreaks, where medicine was not yet fully understood.
+
 - template: media-content
   block: media-2
   image_1: 
@@ -134,7 +139,7 @@ page_sections:
   block: two-column-2
   headline: Protection
   col_1: 
-    content: <ul style="text-align:left;"><li>Try to quarantine indoors, if going out is neccessary, maintain social distance (at least 6ft)<li>Wash your hands with soap and water or with 60%+ alcohol hand sanitizer<li>Clean and disinfect potentially contaminated surfaces<li>Wear a mask when going out<li>Avoid touching your face- nose, eyes, mouth </ul>
+    content: <ul style="text-align:left;"><li>Try to quarantine indoors, if going out is neccessary, maintain social distance (at least 6ft)<li>Wash your hands with soap and water or with 60%+ alcohol hand sanitizer<li>Clean and disinfect potentially contaminated surfaces<li>Wear a mask when going out<li>Avoid touching your face (eg. nose, eyes, mouth) </ul>
   col_2:
     content: <ul style="direction:rtl;text-align:right;"><li>Make your home and outbuildings rodent-proof<li>Wear gloves when handling potentially infected animals<li>Wear insect repellent to keep rodent fleas away, DEET + Permethrin containing products are effective repellents<li>Keep fleas off your pets<li>Because of lack of individuals infected with pneumonic plague, most don’t have to worry about measure to prevent  human to human transmission</ul>
 
@@ -146,6 +151,11 @@ page_sections:
   image_2: 
     image: "/uploads/prev_plague.jpg"
     caption: Black Death Warning Flyer
+
+- template: detail-content
+  block: one-column-1
+  headline: COVID-19 vs. The Black Death Prevention Effectiveness
+  content: In the Middle Ages, medical science was yet to be developed so there was no prevention or treatment available for the Black Death. Because people were not active avoiding or taking measures to prevent the spread of the plague, they were more likely to come into contact with the plague and as a result, would most likely become infected and potentially die. The rich were able to isolate themselves and quarantine away from crowded cities or monasteries, which were the epicenters of disease. However, the poor had no means of protecting themselves besides praying to God and as a result, they died in much larger numbers than the wealthy.<br><br>In modern times, medical science is much better developed and there are treatments available to better prevent deaths and the ability to research for a cure has been greatly increased. With the addition of an increasingly connected world where the transfer of information is almost instant, knowledge about basic preventive actions has been disseminated to the masses leading to better prevention as seen by the <strong>COVID-19 Protection Flyer</strong> figure. The difficult issue with preventing COVID-19 is due to how contagious the virus is and how some people may be asymptomatic, but still able to unknowingly transfer disease which can be deadly to the eldery or those with preexisting conditions. However, this is not to say that the poor are now affected similarly to the rich. The wealthy still have access to better healthcare and can afford to isolate themselves or work from home, while the poor have a higher chance to work in essential jobs with customer-facing roles, leading to an increased chance of infection. 
 
 - template: full-width-media-element
   block: media-1
